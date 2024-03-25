@@ -9,3 +9,11 @@ This github repository is a complimentary resource for the Instance Detection Ch
 ## Installation
 You may want to install necessary packages. Run `pip install -r requirements.txt` in your python environment. Note that we only tested the code on python >= 3.6.
 
+## Evaluation
+You should be able to run the following command line to evaluate.
+
+## Generating the json file for benchmarking
+The challenge server at EvalAI requires participants to upload a json file that lists results on the test-set.
+
+## Question?
+Should you have technical questions, please create an issue here.
