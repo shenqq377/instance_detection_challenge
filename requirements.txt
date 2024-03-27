@@ -1,0 +1,6 @@
+python==3.9
+torch==2.0.0
+torchvision==0.15.0
+opencv-python
+scikit-image
+scikit-learn
