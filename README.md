@@ -9,10 +9,10 @@ This github repository is a complimentary resource for the Instance Detection Ch
 ## Installation
 You may want to install necessary packages. Run `pip install -r requirements.txt` in your python environment. Note that we only tested the code on python >= 3.8.
 
-**Note**: `pascal2coco.py` and `pascal2coco4CPL.py` are used to convert all XML files to a single JSON file, to ensure a COCO compatible format.
+**Note**: `pascal2coco.py` and `pascal2coco4CPL.py` are used to convert all XML files to a single JSON file, to ensure a COCO compatible format. Please follow these codes to convert raw annotation files, each image is allocated a specific id.
 
-<--## Evaluation
-You should be able to run the following command line to evaluate.!>
+<!--## Evaluation
+You should be able to run the following command line to evaluate.-->
 
 ## Generating the json file for benchmarking
 The challenge server at EvalAI requires participants to upload a json file that lists results on the test-set.
