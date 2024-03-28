@@ -1,6 +1,6 @@
 # Instance Detection Challenge
 Workshop Webpage<br>
-EvalAI Challenge Server<br>
+[EvalAI Challenge Server](https://eval.ai/web/challenges/challenge-page/2242/overview)<br>
 
 ![intro](https://raw.githubusercontent.com/shenqq377/InsDet_Challenge/challenge/templates/objdet-insdet.png)
 
