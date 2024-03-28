@@ -11,8 +11,8 @@ You may want to install necessary packages. Run `pip install -r requirements.txt
 
 **Note**: `pascal2coco.py` and `pascal2coco4CPL.py` are used to convert all XML files to a single JSON file, to ensure a COCO compatible format.
 
-## Evaluation
-You should be able to run the following command line to evaluate.
+<--## Evaluation
+You should be able to run the following command line to evaluate.!>
 
 ## Generating the json file for benchmarking
 The challenge server at EvalAI requires participants to upload a json file that lists results on the test-set.
