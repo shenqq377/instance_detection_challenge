@@ -1,6 +1,6 @@
 # Instance Detection Challenge
-Workshop Webpage<br>
-[EvalAI Challenge Server](https://eval.ai/web/challenges/challenge-page/2242/overview)<br>
+[Workshop Webpage](https://vplow.github.io/vplow_4th.html)<br>
+[EvalAI Challenge Server](https://eval.ai/web/challenges/challenge-page/2277/overview)<br>
 
 ![intro](https://raw.githubusercontent.com/shenqq377/InsDet-Challenge/challenge/templates/objdet-insdet.png)
 
