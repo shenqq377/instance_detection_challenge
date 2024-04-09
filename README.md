@@ -2,7 +2,7 @@
 Workshop Webpage<br>
 [EvalAI Challenge Server](https://eval.ai/web/challenges/challenge-page/2242/overview)<br>
 
-![intro](https://raw.githubusercontent.com/shenqq377/InsDet_Challenge/challenge/templates/objdet-insdet.png)
+![intro](https://raw.githubusercontent.com/shenqq377/InsDet-Challenge/challenge/templates/objdet-insdet.png)
 
 This github repository is a complimentary resource for the Instance Detection Challenge. From python files we provided, you can see how the challenge dataset is organized, how the evaluation is done, and how the required json file is generated for benchmarking on EvalAI. We provide jupyter notebook files to demonstrate comparison between two baselines in [paper](https://github.com/insdet/instance-detection).
 
