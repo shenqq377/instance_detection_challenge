@@ -10,7 +10,7 @@ This github repository is a complimentary resource for the Instance Detection Ch
 You may want to install necessary packages. Run `pip install -r requirements.txt` in your python environment. Note that we only tested the code on python >= 3.8.
 
 ## Generating the json file for benchmarking
-The challenge server at EvalAI requires participants to upload a json or csv file that lists results on the test-set. We also provide an example of submission.json here.
+The challenge server at EvalAI requires participants to upload a json or csv file that lists results on the test-set. We also provide an example of `submission.json` here.
 
 ## Question?
 Should you have technical questions, please create an issue here.
