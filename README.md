@@ -13,4 +13,4 @@ You may want to install necessary packages. Run `pip install -r requirements.txt
 The challenge server at EvalAI requires participants to upload a json or csv file that lists results on the test-set. We also provide examples of `submission.json` and `submission_fasterrcnn_dev.csv`here.
 
 ## Question?
-Should you have technical questions, please create an issue here.
+Should you have technical questions, please create an issue here. If you have high-level questions, please contact Yunhan Zhao (yzhao117@gmail.com) and Qianqian Shen (shenqq377@gmail.com)
