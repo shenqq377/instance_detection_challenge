@@ -1,6 +1,6 @@
 # Instance Detection Challenge
-[Object Instance Detection Challenge](https://eval.ai/web/challenges/challenge-page/2277/overview) at [Workshop on Visual Perception and Learning in an Open World, CVPR 2024](https://vplow.github.io/vplow_4th.html)<br>
-[1st Object Instance Detection Workshop at ACCV 2024](https://insdet.github.io)
+**[Object Instance Detection Challenge](https://eval.ai/web/challenges/challenge-page/2277/overview)** at **[Workshop on Visual Perception and Learning in an Open World, CVPR 2024]**(https://vplow.github.io/vplow_4th.html)<br>
+**[1st Object Instance Detection Workshop at ACCV 2024](https://insdet.github.io)**
 
 ![intro](https://raw.githubusercontent.com/shenqq377/InsDet-Challenge/challenge/templates/objdet-insdet.png)
 
@@ -13,4 +13,4 @@ You may want to install necessary packages. Run `pip install -r requirements.txt
 The challenge server at EvalAI requires participants to upload a json or csv file that lists results on the test-set. We also provide examples of `submission.json` and `submission_fasterrcnn_dev.csv`here.
 
 ## Question?
-Should you have technical questions, please create an issue here. If you have high-level questions, please contact Yunhan Zhao (yzhao117@gmail.com) and Qianqian Shen (shenqq377@gmail.com)
+Should you have technical questions, please create an issue here. If you have high-level questions, please contact Qianqian Shen (shenqq377@gmail.com) and Yunhan Zhao (yzhao117@gmail.com).
