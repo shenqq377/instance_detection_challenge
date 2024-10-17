@@ -1,6 +1,6 @@
 # Instance Detection Challenge
-**[Object Instance Detection Challenge](https://eval.ai/web/challenges/challenge-page/2277/overview)** at **[Workshop on Visual Perception and Learning in an Open World, CVPR 2024](https://vplow.github.io/vplow_4th.html)**<br>
-**[1st Object Instance Detection Workshop at ACCV 2024](https://insdet.github.io)**<br>
+-**`2024/06/18`**: **[Object Instance Detection Challenge](https://eval.ai/web/challenges/challenge-page/2277/overview)** was held at [Workshop on Visual Perception and Learning in an Open World, CVPR 2024](https://vplow.github.io/vplow_4th.html)<br>
+-**`2024/12/08`**: **[1st Object Instance Detection Workshop](https://insdet.github.io)** will be held at [ACCV 2024](https://accv2024.org).<br>
 
 ![intro](https://raw.githubusercontent.com/shenqq377/InsDet-Challenge/challenge/templates/objdet-insdet.png)
 
