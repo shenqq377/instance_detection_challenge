@@ -12,7 +12,7 @@ This github repository is a complimentary resource for the Instance Detection Ch
 ## Installation
 You may want to install necessary packages. Run `pip install -r requirements.txt` in your python environment. Note that we only tested the code on python >= 3.8.
 
-<table><tr><td bgcolor=background-yellow>Note: Evaluation protocol will recognize easy and hard by image id automatically. If participants need to submit a mini-version, please ensure your submission contains both easy and hard test images.</td></tr></table>
+<span style="background:#ffff00;">Note: Evaluation protocol will recognize easy and hard by image id automatically. If participants need to submit a mini-version, please ensure your submission contains both easy and hard test images.</span>
 
 ## Generating the json file for benchmarking
 The challenge server at EvalAI requires participants to upload a json or csv file that lists results on the test-set. We also provide examples of `submission.json` and `submission_fasterrcnn_dev.csv`here.
